@@ -24,8 +24,21 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />][Telegram]
-[<img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/color/25/000000/vk-circled.png" />][VK]
-[<img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][LinkedIn]
+[<img align="left" alt="VK" width="22px" src="https://img.icons8.com/color/25/000000/vk-circled.png" />][VK]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][LinkedIn]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/external-outline-juicy-fish/48/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 
 [Telegram]:https://t.me/psapsa
 [VK]:https://vk.com/yadadaya
