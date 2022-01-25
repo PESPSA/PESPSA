@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/external-outline-juicy-fish/48/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/>
 <img align="left" width="22px" src="https://img.icons8.com/color/48/000000/css3.png"/>
