@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PESPSA/PESPSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +23,4 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![facebook][t.me/psapsa]]
+[<img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/ios/50/000000/telegram-app.png" />][t.me/psapsa]
