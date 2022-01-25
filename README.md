@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/ios/50/000000/telegram-app.png" />][Telegram]
 
-[Telegram]:t.me/psapsa
+[Telegram]:https://lifehacker.ru/kak-davat-ssylki-na-telegram-kanaly/
