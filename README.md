@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/ios/50/000000/telegram-app.png" />][t.me/psapsa]
+[<img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/ios/50/000000/telegram-app.png" />](t.me/psapsa)
