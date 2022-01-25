@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/ios/50/000000/telegram-app.png" />][Telegram]
+[<img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />][Telegram]
 
 [Telegram]:https://t.me/psapsa
