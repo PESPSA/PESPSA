@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hello everyone that's me PESPSA :^)
 
 ## I am currently graduating with a bachelor's degree in software engineering and learning Data Science
-- 🔭 Working on my diploma related to the [recommender system using fuzzy logic][]
+- 🔭 Working on my diploma related to the recommender system using fuzzy logic
 - 🌱 Learning DS at Yandex Praktikum
 
 ### Connect with me:
