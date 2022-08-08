@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ### Hello everyone that's me PESPSA :^)
 
 ## I am currently graduating with a bachelor's degree in software engineering and learning Data Science
-- 🔭 Working on my diploma related to the recommender system using fuzzy logic
+- 🔭 Finished my diploma related to the recommender system using fuzzy logic
 - 🌱 Learning DS at Yandex Praktikum
 
-### Connect with me:
+### Contact with me:
 
 [<img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />][Telegram]
 [<img align="left" alt="VK" width="22px" src="https://img.icons8.com/color/25/000000/vk-circled.png" />][VK]
