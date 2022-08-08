@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hello everyone that's me PESPSA :^)
 
-## I am currently graduating with a bachelor's degree in software engineering and learning Data Science
+## I am currently graduated with a bachelor's degree in software engineering and learning Data Science
 - 🔭 Finished my diploma related to the recommender system using fuzzy logic
 - 🌱 Learning DS at Yandex Praktikum
 
